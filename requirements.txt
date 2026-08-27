@@ -1,0 +1,2 @@
+# Standard library only — no pip installs needed
+# smtplib, imaplib, sqlite3, csv, email are all built-in

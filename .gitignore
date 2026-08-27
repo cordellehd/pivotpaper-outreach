@@ -1,0 +1,6 @@
+prospects.csv
+outreach.db
+*.log
+__pycache__/
+*.pyc
+.env
